@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Oropendola</h1>
-<h3 align="center">Ruby, C++, Java and ADA developer</h3>
+<h3 align="center">Ada, C++, Java and Ruby developer</h3>
 
 - 🔭 I’m currently working on **my own projects**
 
